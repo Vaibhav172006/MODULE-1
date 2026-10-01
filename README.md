@@ -1,7 +1,7 @@
-#Student Registration Portal
+# Student Registration Portal
 A simple HTML student registration form built as a mini project for XYZ Institute.
 
-#Files
+# Files
 index.html — the full page: profile section, registration form, and three info tables
 avatar.png — image asset
 businessman-character-avatar-isolated_24877-60111.avif — image asset
@@ -25,5 +25,5 @@ Student Performance — table of subject, marks, and grade
 Usage
 Open index.html directly in a browser — no build step, server, or dependencies required. All image files must stay in the same folder as index.html since they're referenced by relative path.
 
-#Notes
+# Notes
 This is plain HTML with no CSS applied, so it renders using the browser's default styling.
